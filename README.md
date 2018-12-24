@@ -10,8 +10,13 @@ In this lesson, we'll learn about the most popular and widely-used clustering al
 You will be able to:
 
 * Demonstrate an understanding of how the K-Means Clustering algorithm works
+    * Define the steps of the algorithm
+    * Describe use cases
+    * Describe various implementations of KMeans
 * Perform K-Means Clustering with scikit-learn and interpret the results
+    * Build a KMeans clustering 'model'
 * Use metrics such as Calinski Harabaz Score (Variance Ratios) to determine the optimal value for k
+    * read some charts and get some metrics
 
 
 ## Clustering
